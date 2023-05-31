@@ -2,6 +2,8 @@
 
 This is a tribute page dedicated to the late Chadwick Boseman, honoring his iconic portrayal of the Black Panther in the Marvel Cinematic Universe. The page highlights Boseman's life, career, the significance of his role as Black Panther, and his lasting impact on popular culture.
 
+The tribute page is hosted at: [https://mecarte-ai.github.io/tribute-project/](https://mecarte-ai.github.io/tribute-project/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
