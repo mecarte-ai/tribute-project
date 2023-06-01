@@ -10,7 +10,6 @@ The tribute page is created using **Tailwind CSS** and is hosted at: [https://me
 - [Early Life and Career](#early-life-and-career)
 - [Black Panther](#black-panther)
 - [Legacy and Impact](#legacy-and-impact)
-- [Timeline](#timeline)
 
 ## Introduction
 
@@ -27,10 +26,6 @@ The Black Panther section focuses on the significance of Chadwick Boseman's port
 ## Legacy and Impact
 
 In this section, the tribute page acknowledges the untimely passing of Chadwick Boseman and the shock it brought to the world. It emphasizes his enduring legacy, his continued inspiration, and the lasting impact he made on the film industry.
-
-## Timeline
-
-The timeline presents key milestones in Chadwick Boseman's life and career, including significant films and his debut as Black Panther. It concludes with his passing, marking a pivotal moment in his legacy.
 
 ---
 
