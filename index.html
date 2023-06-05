@@ -8,27 +8,33 @@
   </head>
 
   <body>
-    <div class="text-slate-200 bg-black">
+    <div class="text-slate-200 bg-black" id="main">
       <header
         class="h-screen bg-black/40 flex items-center flex-col bg-blend-overlay bg-cover bg-center bg-no-repeat bg-scroll lg:bg-fixed justify-center lg:bg-auto lg:bg-top"
         style="background-image: url('images/bg.jpg')"
       >
-        <h1 class="text-4xl font-bold mb-2 text-center md:text-7xl">
+        <h1 class="text-4xl font-bold mb-2 text-center md:text-7xl" id="title">
           Chadwick Boseman
         </h1>
-        <p class="text-2xl font-light md:text-4xl text-center">Black Panther</p>
+        <p
+          class="text-2xl font-light md:text-4xl text-center"
+          id="tribute-info"
+        >
+          Black Panther
+        </p>
       </header>
 
       <main class="max-w-[850px] mx-auto">
         <section class="md:flex gap-8 md:py-32 p-8">
-          <div>
+          <div id="img-div">
             <img
               src="images/bg-2.jpg"
               alt=""
               class="brightness-75 w-full md:rounded-3xl md:rotate-3 sticky top-8"
+              id="image"
             />
           </div>
-          <div>
+          <div id="img caption">
             <p class="leading-8 text-xl mb-10 pt-8 md:p-0">
               Chadwick Boseman was an extraordinary actor who portrayed the
               iconic character of Black Panther in the Marvel Cinematic
@@ -143,7 +149,17 @@
       </main>
 
       <footer class="pb-4">
-        <p class="text-center">© 2023 Aga Mecarte. All rights reserved.</p>
+        <p class="text-center">© 2023 Aga Mecarte. All rights reserved</p>
+        <p class="text-center">
+          Source:
+          <a
+            href="https://en.wikipedia.org/wiki/Chadwick_Boseman"
+            id="tribute-link"
+            target="_blank"
+            class="text-slate-500 hover:text-slate-700"
+            >Wikipedia</a
+          >
+        </p>
       </footer>
     </div>
   </body>
